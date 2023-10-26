@@ -1,0 +1,35 @@
+.HomeContainer{
+    width: 50%;
+    padding: 2%;
+}
+.HomeContainer h1 {
+    text-align: center;
+    font-family: 'Yeseva One', serif;
+    color: #FFF;
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    transition: all 1s ease;
+}
+
+.HomeContainer h1:hover {
+    color: #48069C;
+    text-shadow: 0 0 15px #48069C;
+    transition: all 1s ease;
+}
+.HomeContainer h2{
+    text-align: center;
+    color: #FFF;
+    font-family: Yeseva One;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.HomeContainer p{
+    text-align: justify;
+    color:#FFF;
+    font-family: Jost;
+}
+    
