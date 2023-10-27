@@ -1,0 +1,43 @@
+.project {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background: rgba(217, 217, 217, 0.50);
+    text-align: center;
+}
+
+.project-thumbnail {
+    display: flex;
+    width: 50%;
+    height: 100%;
+}
+
+.project-info-container {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem 0;
+    text-align: center;
+}
+
+.project-info h2 {
+    color: #FFF;
+    text-align: left;
+    font-family: Yeseva One;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.project-info p {
+    color: #FFF;
+    text-align: justify;
+    font-family: Jost;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

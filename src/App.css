@@ -1,10 +1,8 @@
 .App {
-  height: 100vh; 
+  height: 100%; 
   width: 100%;   
   background-image: url('./images/9616997915_3ceb277ca1_b.jpg'); 
-  background-size: cover;  
-  background-position: center; 
-  background-repeat: no-repeat; 
+  background-repeat: round; 
   background-color: lightgray;  
 }
 
