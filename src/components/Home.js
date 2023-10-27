@@ -7,6 +7,7 @@ export const Home = () => {
             <h1>Dulce Bucio</h1>
             <h2>Computer Science Student and STEM passionate</h2>
             <p>I am a freshman Computer Science student at Tecnológico de Monterrey, driven to constantly learn and improve by embracing challenges and overcoming adversities. My passion for my career is immense, and I am fully committed to not only mastering my abilities but also deriving enjoyment from the journey while I share STEM knowledge to the world.</p>
+            <center><button class="btn-hover color-3" href="mailto:dulcenahomibucio@gmail.com" target="_blank">Contact me</button></center>
         </div>
     )
 }

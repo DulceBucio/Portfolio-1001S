@@ -7,17 +7,10 @@ import styles from "./Projects.css";
 const Projects = () => {
     const projects = [
       {
-        projectName: "AAAAA",
-        description: "Descripcion epica",
-        url: "https://www.google.com",
-        img: "./images/9616997915_3ceb277ca1_b.jpg"
-      },
-      {
-        projectName: "BBBBB",
-        description: "Descripcion epica",
-        url: "https://www.google.com",
-        img: "./images/9616997915_3ceb277ca1_b.jpg"
-      }
+        projectName: "TecXotic",
+        description: "Designed and implemented the web interface for the ROV pilot and copilot ensuring a friendly user experience in order to accomplish the competition missions using Figma, React, CSS and JavaScript.",
+        img: " proyecto3.png"
+      },      
     ];
   
     return (
